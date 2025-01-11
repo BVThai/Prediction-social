@@ -27,5 +27,8 @@ This project analyzes a social network graph, computes metrics for nodes and edg
 ## Results
 - Visualized graph with node/edge metrics.
 - Compared link prediction scores across methods.
+## References
+Mahapatra, R., Samanta, S., Pal, M., & Xin, Q. (2020). Link Prediction in Social Networks by Neutrosophic Graph. International Journal of Computational Intelligence Systems, 13(1), 1699–1713. DOI:10.2991/ijcis.d.201015.002
+
 
 
