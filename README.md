@@ -15,15 +15,15 @@ This project analyzes a social network graph, computes metrics for nodes and edg
    pip install pandas networkx matplotlib tabulate
 3. Add the following files to the project directory: Vertex.csv, Edge.csv, and Predict_edge.csv to the project directory.
 ## Workflow
-1. Graph Construction: Build and visualize the social network.
-2. Node Metrics: Calculate True Value, Indeterminacy, and Falsity.
-3. Edge Metrics: Compute metrics like normalized True Value.
-4. Location-Based Metrics: Analyze distances for prediction.
-5. Link Prediction: Implement algorithms (e.g., Jaccard, Adamic-Adar).
-6. Comparison: Normalize scores and visualize results.
+1. **Graph Construction**: Build and visualize the social network.
+2. **Node Metrics**: Calculate True Value, Indeterminacy, and Falsity.
+3. **Edge Metrics**: Compute metrics like normalized True Value.
+4. **Location-Based Metrics**: Analyze distances for prediction.
+5. **Link Prediction**: Implement algorithms (e.g., Jaccard, Adamic-Adar).
+6. **Comparison**: Normalize scores and visualize results.
 ## Algorithms
-- Custom Metrics: True Value, Indeterminacy, Falsity.
-- Traditional Methods: Common Neighbors, Jaccard Index, Adamic-Adar, etc.
+- **Custom Metrics**: True Value, Indeterminacy, Falsity.
+- **Traditional Methods**: Common Neighbors, Jaccard Index, Adamic-Adar, etc.
 ##Results
 - Visualized graph with node/edge metrics.
 - Compared link prediction scores across methods.
