@@ -24,7 +24,7 @@ This project analyzes a social network graph, computes metrics for nodes and edg
 ## Algorithms
 - **Custom Metrics**: True Value, Indeterminacy, Falsity.
 - **Traditional Methods**: Common Neighbors, Jaccard Index, Adamic-Adar, etc.
-##Results
+## Results
 - Visualized graph with node/edge metrics.
 - Compared link prediction scores across methods.
 
